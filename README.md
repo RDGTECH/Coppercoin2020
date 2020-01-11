@@ -16,13 +16,9 @@ Target spacing 64 seconds
 Target timespan 1 block
 Transaction confirmations 4 blocks
 #
-Web Site http://coppercoin.net
-#
 Block Explorer https://coppercoin.explorerhub.io/
 #
-Mining Pool http://pool.luckyaltcoin.com
-#
-Github https://github.com/RDGTECH/CoppercoinV2.git
+Github https://github.com/RDGTECH/Coppercoin2020.git
 #
 Discord https://discord.gg/hhZwX9E
 #
