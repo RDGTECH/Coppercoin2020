@@ -23,4 +23,3 @@ Github https://github.com/RDGTECH/Coppercoin2020.git
 Discord https://discord.gg/hhZwX9E
 #
 
-
